@@ -1,3 +1,5 @@
 The world runs on git and github. These tools have become scarily essential to development in the modern age.
 
 This is a public service announcement by Changa.
+
+Quinn is in the lab working on dismantling the 2021 bot.
